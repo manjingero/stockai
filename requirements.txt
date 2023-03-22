@@ -1,0 +1,6 @@
+numpy
+tensorflow
+textblob
+keras
+scipy
+sklearn
